@@ -73,3 +73,5 @@ docker build -t secure_recommendation_system .
 ```bash
 docker run -p 80:80 secure_recommendation_system
 ```
+
+Разработка в процессе, выполнила Гасанова Марина
